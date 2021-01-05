@@ -1,0 +1,19 @@
+{
+  "name": "telegramchat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kertnique/temporaryName.git"
+  },
+  "author": "Maksym Marczenko <makc200802@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kertnique/temporaryName/issues"
+  },
+  "homepage": "https://github.com/kertnique/temporaryName#readme"
+}
